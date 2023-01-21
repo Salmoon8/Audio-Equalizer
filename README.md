@@ -27,7 +27,7 @@
  ## Preview
 #### Uploading an Audio file.
 
-!(audio.png)
+![Audio](audio.jpg)
 
 #### Spectrogram.
 
