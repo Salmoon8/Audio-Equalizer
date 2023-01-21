@@ -15,6 +15,8 @@
  - **CSS**
  ### Used libraries
  - numpy
+ - soundfile
+ - wave.io
  - flask
  - PIL
  - werkzeug.utils
