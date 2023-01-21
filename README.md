@@ -29,7 +29,7 @@
 
 ![Audio](audio.png)
 
-#### Spectrogram.
+#### Spectrogram after filtering.
 
-![Screenshot (384)](https://user-images.githubusercontent.com/93640020/210385282-d0aa52f6-757d-4570-a817-2547f2b967d3.png)
+![spec](spectrogram.png)
 
